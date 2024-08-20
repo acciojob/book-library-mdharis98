@@ -18,7 +18,7 @@
             margin-bottom: 20px;
             border-bottom: 1px solid #e1e1e1;
             padding-bottom: 20px;
-			box-shadow:10px rgb(46,204,113)
+			/* box-shadow:10px rgb(46,204,113) */
         }
 
         .book img {
@@ -50,4 +50,11 @@
             text-align: center;
             width: fit-content;
             border-radius: 5px;
+        }
+.price-block {
+            background-color: #2ecc71;
+            padding: 10px;
+            color: #fff;
+            border-radius: 5px;
+	text-align:center;
         }
