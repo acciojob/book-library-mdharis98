@@ -1,6 +1,8 @@
  body {
             background-color: #f8f8f8; /* Background for the entire page */
             font-family: Arial, sans-serif;
+	 			box-shadow:10px rgb(46,204,113)
+
         }
 
         .book-library {
@@ -18,7 +20,7 @@
             margin-bottom: 20px;
             border-bottom: 1px solid #e1e1e1;
             padding-bottom: 20px;
-			/* box-shadow:10px rgb(46,204,113) */
+			box-shadow:10px rgb(46,204,113)
         }
 
         .book img {
@@ -29,6 +31,8 @@
 
         .book-details {
             flex-grow: 1;
+						box-shadow:10px rgb(46,204,113)
+
         }
 
         .book-title {
