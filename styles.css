@@ -7,11 +7,11 @@ body {
 }
 
 .book-library {
-    background-color: #ffffff;
+    background-color: #f8f8f8;
     width: 80%;
     margin: 0 auto;
     padding: 20px;
-    box-shadow: 0 0 10px rgb(119, 119, 119);
+    box-shadow:  10px rgb(119, 119, 119);
 }
 
 .book {
@@ -35,7 +35,7 @@ body {
 }
 
 .author {
-    rgb(119, 119, 119)
+    color: #777777;
     font-size: 14px;
 }
 
